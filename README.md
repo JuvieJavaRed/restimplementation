@@ -7,5 +7,5 @@ The solution was designed and implemented with a lot of detail being paid toward
 H2 in memory database was used for the solution.
 To start the application open command line and from the root of the project run "mvn spring-boot:run"
 To access the in memory database open your broswer and open "http://localhost:8080/h2-console"
-Use postman collection in the project as a blue print for how to use the endpoints.
+Use postman to access the endpoints.
 
